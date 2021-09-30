@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently student of VIT Bhopal...
 - 🌱 I’m currently learning Competitive programming
-- 💬 Ask me about HTML/CSS, C++.......
+- 💬 Ask me about HTML/CSS,Javascript,Node js C++,Cp.......
 - 📫 How to reach me:[@altreodo](https://www.instagram.com/altreodo)
